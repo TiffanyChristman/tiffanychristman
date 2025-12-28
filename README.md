@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tiffany, a <a href="https://linkedin.com/in/tiffanychristman">Cybersecurity Analyst</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 GRC Projects:</h2>
 
 - <b>osTicket (Creating a Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tiffanychristman/osticket-prereqs)
