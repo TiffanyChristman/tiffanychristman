@@ -29,4 +29,4 @@ I specialize in building real-world Governance, Risk & Compliance (GRC) labs to 
 ---
 
 📬 Connect with me on LinkedIn:  
-[linkedin.com/in/tiffanychristman](https://linkedin.com/in/tiffanychristman)
+ [linkedin.com/in/tiffanychristman](https://linkedin.com/in/tiffanychristman)
