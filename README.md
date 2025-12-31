@@ -17,7 +17,7 @@ Enterprise-level threat modeling and asset classification using NIST CSF and CIS
 
 ### 📱 BYOD Policy Lab for Clinical Environments  
 Built a HIPAA-aware access policy for mobile device usage in a healthcare setting.  
-📑 [Policy Document (PDF)](https://github.com/TiffanyChristman/grc-policy-labs/blob/main/byod-policy/BYOD_VPN_Policy.pdf)
+📑 [Policy Document (PDF)](https://github.com/TiffanyChristman/grc-policy-labs/blob/main/byod-policy/BYOD%20-%20VPN%20_%20VMWare%20Policy.pdf)
 
 ---
 
