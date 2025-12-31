@@ -9,15 +9,15 @@ I create real-world labs and documentation that simulate enterprise GRC workflow
 
 ### 📄 Vendor Risk Assessment – CloudSecure LMS  
 Simulated third-party risk evaluation using scoring models, a custom questionnaire, and executive reporting.  
-📝 [View Report (PDF)](link-here) | 📊 [View Spreadsheet](link-here)
+📝 [View Report (PDF)](https://github.com/TiffanyChristman/grc-policy-labs/blob/main/vendor-risk-lab/Vendor_Risk_Assessment_Report.pdf) | 📊 [View Spreadsheet](https://github.com/TiffanyChristman/grc-policy-labs/blob/main/vendor-risk-lab/Vendor_Risk_Assessment_Scoring.xlsx)
 
 ### 🏛️ Athena Enterprise Risk Assessment  
 Enterprise-level threat modeling and asset classification using NIST CSF and CIS Controls.  
-📄 [View Lab](link-here)
+📄 [View Lab](https://github.com/TiffanyChristman/grc-policy-labs/blob/main/athena-risk-analysis/Athena%20Risk%20Assessment%20Report.pdf)
 
 ### 📱 BYOD Policy Lab for Clinical Environments  
 Built a HIPAA-aware access policy for mobile device usage in a healthcare setting.  
-📑 [Policy Document (PDF)](link-here)
+📑 [Policy Document (PDF)](https://github.com/TiffanyChristman/grc-policy-labs/blob/main/byod-policy/BYOD_VPN_Policy.pdf)
 
 ---
 
