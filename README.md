@@ -1,13 +1,32 @@
-<h1>Hi, I'm Tiffany, a <a href="https://linkedin.com/in/tiffanychristman">Cybersecurity Analyst</a>☺</h1>
+Hi, I'm Tiffany — a Cybersecurity Analyst with a passion for GRC 🛡️  
+I specialize in building real-world Governance, Risk & Compliance (GRC) labs to help organizations secure data, reduce third-party risk, and meet regulatory requirements.
 
-<h2>👨‍💻 GRC Projects:</h2>
+---
 
-- <b>osTicket (Creating a Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/tiffanychristman/osticket-prereqs)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/tiffanychristman/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tiffanychristman/azure-network-protocols)
+🗂️ Featured GRC Projects:
 
-<h2>🤳Connect with me:</h2>
-<img align="left" alt="Tiffany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-https://linkedin.com/in/tiffanychristman
+- **Vendor Risk Assessment**  
+  Simulated third-party risk evaluation with scoring, report, and recommendations.  
+  [View Project →](#)
+
+- **Athena Risk Assessment (Enterprise)**  
+  Threat modeling, asset classification, and control mapping for an EdTech company.  
+  [View Project →](#)
+
+- **BYOD Policy Lab**  
+  HIPAA-aligned BYOD access policy for clinical environments.  
+  [View Project →](#)
+
+---
+
+🧠 GRC Skills:
+- Risk assessment & tiering
+- Control frameworks: NIST CSF, CIS Controls, HIPAA
+- Third-party risk questionnaires
+- Security documentation & policy writing
+- Audit-ready reporting
+
+---
+
+📬 Connect with me on LinkedIn:  
+[linkedin.com/in/tiffanychristman](https://linkedin.com/in/tiffanychristman)
