@@ -1,7 +1,7 @@
 # Hi, I'm Tiffany — a Cybersecurity Analyst with a GRC Focus 🛡️
 
 I'm passionate about bridging security and compliance through **Governance, Risk & Compliance (GRC)**.  
-I create real-world labs and documentation that simulate enterprise GRC workflows — from vendor risk assessments to policy development and control mapping.
+I create real-world labs and documentation that simulate enterprise GRC workflows  from vendor risk assessments to policy development and control mapping.
 
 ---
 
